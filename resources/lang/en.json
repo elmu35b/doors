@@ -1,0 +1,44 @@
+{
+    "Easy Access Control" : "",
+    "Control Your buildings , Apartments ,, On The Go": "",
+    "Variety of solutions" : {
+        "l": "Variety of solutions",
+        "l1": "We provide variety of solutions for access control"
+    },
+    "Welcome to Doorstep View":"",
+    "Transforming Real Estate":{
+        "l":"Transforming Real Estate",
+        "l1":"Are you tired of the time-consuming process of visiting potential apartments for rent?",
+        "l1-1": " So are we. That's why we've created an entirely new approach to real estate viewings.",
+        "l2":"Our solution, Doorstep View, uses cutting-edge IoT and AI technologies to streamline your apartment viewing process. No more inconvenient scheduling or wasted journeys."
+    },
+    "About DoorStepView": {
+
+    },
+    "How It Works": {
+        "l" :"How It Works",
+        "l1": "With IoT, we automate the process of visiting available apartments for rent. Our system allows real estate agencies to remotely control doors and manage the viewing process, all without any changes to regular doors.",
+        "l2": "And with AI, we elevate your customer experience. Our AI system provides personalized recommendations based on your preferences and behavior, making the search for your perfect home that much easier."
+    },
+    "Our Solution Products": {
+        "1": {
+            "t": "FingerPring DoorLock",
+            "c": "Tuya BLE Smart Fingerprint Electronic Door Lock DIY B-end adjustable Cylinder Core Fingerprint APP Keys IC Card Unlock for Home Hotels Security ",
+            "i": "tuya.png"
+        },
+        "2": {
+            "t": "Bluetooh DoorLock",
+            "c": "The Danalock V3 is a wireless smart lock that lets you easily control access to your home with your smartphone. So stop worrying about lost or forgotten keys, use your smartphone to lock or unlock the door",
+            "i": "danalock.png"
+        },
+        "3": {
+            "t": " Phone OTP DoorLock",
+            "c": "WeHere Smart Lock with APP & Door Sensor, Keyless Entry Door Lock with OTP Technology, Bluetooth Unlock,Wi-Fi Remote/Fingerprint/Keypad Unlock, Fireproof Smart Deadbolt ",
+            "i": "wehere.png"
+        }
+    },
+    "Why Choose Us": {
+        "l": "Why Choose Us",
+        "l1": "The real estate market in the Kingdom is rapidly growing, with high demand for rental apartments. But the process of visiting these apartments is outdated and inconvenient. That's where we come in. Our innovative solution streamlines the rental process and improves your customer experience. And the best part? There's no competition like us in the Kingdom."
+    }
+}
