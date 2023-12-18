@@ -163,7 +163,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="titlepage text_align_center">
-                        <h2>Our CCTV Cameras</h2>
+                        <h2>Our Solution Products</h2>
                     </div>
                 </div>
             </div>
